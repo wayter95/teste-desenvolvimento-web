@@ -1,0 +1,6 @@
+ul li {
+    text-decoration-line: underline;
+}
+ul li:last-child{
+    text-decoration: none;
+}
